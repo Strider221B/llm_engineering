@@ -183,4 +183,5 @@ products_vectorstore/
 week4/optimized
 week4/simple
 
-data/
+data/*
+playground/wandb/*
